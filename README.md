@@ -1,0 +1,2 @@
+# nginx-operator-demo
+no
